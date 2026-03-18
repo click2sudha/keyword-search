@@ -5,6 +5,6 @@ com.worksap
 
 com.worksap
 
-com.worksap
+jp.co.worksap
 
-com.worksap
+jp.co.worksap
